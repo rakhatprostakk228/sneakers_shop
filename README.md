@@ -1,5 +1,6 @@
 Sneakers E-commerce Platform
 Modern React-based online sneaker store with advanced shopping features
+
 🚀 Key Features:
 
 Product Management: Browse, search, filter, and sort sneakers by price, rating, brand, and availability
